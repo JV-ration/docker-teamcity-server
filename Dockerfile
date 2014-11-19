@@ -1,4 +1,4 @@
-FROM docker pull sadovnikov/centos-base
+FROM sadovnikov/centos-base
 
 VOLUME  ["/data/teamcity"]
 ENV TEAMCITY_DATA_PATH /data/teamcity
