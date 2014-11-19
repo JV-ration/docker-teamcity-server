@@ -1,4 +1,4 @@
-docker-team-city-server
+docker-teamcity-server
 =======================
 
 basic pre-cooked installation of TeamCity server
