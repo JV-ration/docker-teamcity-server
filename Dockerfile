@@ -1,4 +1,4 @@
-FROM sadovnikov/container-base
+FROM sadovnikov/container-base:0.1
 MAINTAINER Viktor Sadovnikov <viktor@jv-ration.com>
 
 VOLUME  ["/data/teamcity"]
